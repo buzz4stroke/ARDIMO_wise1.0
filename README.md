@@ -7,11 +7,6 @@ Computer controlled layouts are no problem, as long the signal is the Marklin MM
 The name ARDIMO_wise is an acronym for ARduino DIgital MOtorola. The suffix is an acronym for wi(ssels en) se(inen) which is
 dutch for turnout and signals.
 
-Signal polarity from the rail isn't relevant. Library is working with timings only.
-
-**Example-Circuit to get required signal to Arduino:**
-<img width="100%" src="https://github.com/buzz4stroke/ARDIMO_wise1.0/blob/main/OptocouplerArduino.JPG">
-													  
 Accessories to be controlled:
 1. Turnout with coil
 2. Turnout with servo
@@ -20,12 +15,16 @@ Accessories to be controlled:
 5. Signal with lights
 6. Lights on/off
 7. Decoupler rail with coil
-8. 
+
+
+Signal polarity from the rail isn't relevant. Library is working with timings only.
+
+**Example-Circuit to get required signal to Arduino:**
+<img width="100%" src="https://github.com/buzz4stroke/ARDIMO_wise1.0/blob/main/OptocouplerArduino.JPG">
 
 **Additional informations about the protocol**
 
 Protocol:
-
 - http://home.mnet-online.de/modelleisenbahn-digital/Dig-tutorial-start.html
 
 - http://www.drkoenig.de/digital/motorola.htm
