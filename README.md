@@ -1,8 +1,8 @@
 This is an Arduino decoder sketch with library for decoding the signals from the Märklin-Motorola-protocol.
 Credits for the library are fully for GitHub user Laserlight. The sketch for controlling the accessories is my own design.
 You can control the Arduino with signals from your central control if it is sending the MM2 protocol.
-Examples are: Marklin 6021, Marklin Mobile station (not version 1), Marklin Central Station, Intellibox, ESU ECOS 
-Computer controlled layouts are no problem, as long the signal is the Marklin MM2 protocol.
+Examples are: Marklin 6021, Marklin Mobile station (not version 1), Marklin Central Station, Intellibox, ESU ECOS and more, 
+computer controlled layouts are no problem, as long as the signal is the Marklin MM2 protocol.
 
 The name ARDIMO_wise is an acronym for ARduino DIgital MOtorola. The suffix is an acronym for wi(ssels en) se(inen) which is
 dutch for turnout and signals.
