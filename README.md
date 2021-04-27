@@ -4,7 +4,7 @@ You can control the Arduino with signals from your central control if it is send
 Examples are: Marklin 6021, Marklin Mobile station (not version 1), Marklin Central Station, Intellibox, ESU ECOS and more, 
 computer controlled layouts are no problem, as long as the signal is the Marklin MM2 protocol.
 
-The name ARDIMO_wise is an acronym for ARduino DIgital MOtorola. The suffix is an acronym for wi(ssels en) se(inen) which is
+The name ARDIMO_wise is an acronym for ARduino DIgital MOtorola. The suffix is an acronym for wi(ssels) en se(inen) which is
 dutch for turnout and signals.
 
 Accessories to be controlled:
